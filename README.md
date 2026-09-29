@@ -1,1 +1,0 @@
-# Ferranti-effect.py
